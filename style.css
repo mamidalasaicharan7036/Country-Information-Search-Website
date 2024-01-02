@@ -1,0 +1,10 @@
+.wrapper{
+    background-color: navajowhite;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+input{
+    margin: 10px;
+}
